@@ -46,28 +46,7 @@ Start the Development Server:
 
 npm start     # Or use yarn: yarn start
 
-🛠️ Project Structure
 
-The project is organized in the following way:
-
-project-root/
-│-- src/
-
-│   │-- components/
-
-│   │   │-- BankAccountForm.js  # Main form component
-
-│   │-- App.js                   # Entry point
-
-│   │-- index.js                 # React DOM render
-
-│-- public/
-
-│   │-- index.html
-
-│-- package.json                 # Dependencies & scripts
-
-│-- README.md                    # Documentation
 
 🧑‍💻 Code Explanation
 
